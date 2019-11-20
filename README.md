@@ -1,2 +1,2 @@
-# CustomerManege
-客户管理系统
+# BookStore
+网上图书商城
